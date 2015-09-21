@@ -38,4 +38,4 @@ Huq3JdMrvZcSXtaTXKVRsKWhiKKxKMRFmRURD2LzR5oCHKI9+Bw8kgfl5K8=
 
 -----END CERTIFICATE----- 
 
-![](https://raw.githubusercontent.com/selecadm/selecadm.github.io/master/selecadm.github.io_CRT.png)
+![](https://raw.githubusercontent.com/selecadm/selecadm.github.io-certificate/master/selecadm.github.io_CRT.png)
